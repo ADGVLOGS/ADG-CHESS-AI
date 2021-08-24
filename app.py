@@ -1,3 +1,4 @@
+from flask import Flask, render_template
 import chess
 import random
 import signal
@@ -299,7 +300,8 @@ class ADGChessEngine:
         print("Depth calculated:", len(move_list))
         return str(move_list[-1])
       
-      
+app = Flask(__name__) 
+
 @app.route('/move/<int:depth>/<path:fen>/')
 def get_move(depth, fen):
     print(depth)
