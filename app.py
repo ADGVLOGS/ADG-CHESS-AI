@@ -302,7 +302,7 @@ class ADGChessEngine:
       
 app = Flask(__name__) 
 
-@app.route('/move/<int:depth>/<path:fen>/')
+@app.route('/move/<int:depth>/<path:fen>')
 def get_move(depth, fen):
     print(depth)
     print("Calculating...")
