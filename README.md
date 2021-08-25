@@ -3,7 +3,7 @@
 # ADG-CHESS-AI ENGINE
 
 #### Motivation
-<p>After learning and looking at how George Hotz built his Chess Application on Twitch Slam. I wanted to build my own AI and have computer play me in chess and this is my engine built by motivation of this paper https://www.researchgate.net/profile/T-Anthony-Marsland-2/publication/2404258_Computer_Chess_Methods/links/0deec53c0d09e4e57e000000/Computer-Chess-Methods.pdf</p>
+<p>After learning and looking at how George Hotz built his Chess Application on Twitch Slam. I wanted to build my own AI and have computer play me in chess and this is my <br> engine built by motivation of this paper <br> https://www.researchgate.net/profile/T-Anthony-Marsland-2/publication/2404258_Computer_Chess_Methods/links/0deec53c0d09e4e57e000000/Computer-Chess-Methods.pdf</p>
 
 #### To Do
 <p>1. Redesign whole system to a Keras Neural Network - Self Learning Model</p>
