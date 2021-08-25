@@ -11,6 +11,20 @@
 
 #### Usage
 <p>Compile the notebook to start a Flask Server</p>
+<p>Send a URL to 'localhost/move/depth/path' </p>
+```
+Where depth {int} - Number of Nodes - More Nodes = More AI = More Processing Time = More Harder AI
+Constrains dept can only be MAX_NODES = 60
+
+Path is your chessboard
+Example Response
+
+https://adgai.co.za/move/5/r1bqkbnr/pppppppp/2n5/8/4P3/3P4/PPP2PPP/RNBQKBNR%20b%20KQkq%20-%200%202
+```
+
+#### Interactive Implementation
+Visit Here
+https://adgai.co.za/adgchessai
 
 
 
