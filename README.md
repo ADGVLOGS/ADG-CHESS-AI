@@ -7,7 +7,7 @@
 
 #### To Do
 <p>1. Redesign whole system to a Keras Neural Network - Self Learning Model</p>
-<p>Fix failed Ajax Responses when nodes exceed 7+ - </p>
+<p>2. Fix failed Ajax Responses when nodes exceed 7+ - </p>
 
 #### Usage
 <p>Compile the notebook to start a Flask Server</p>
