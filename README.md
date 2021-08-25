@@ -9,6 +9,14 @@
 <p>1. Redesign whole system to a Keras Neural Network - Self Learning Model</p>
 <p>2. Fix failed Ajax Responses when nodes exceed 7+ </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="85px">  
+#### Docker
+````
+docker pull adgrules/adg-aichess-engine
+docker run --publish 8000:8000 adg-aichess-engine
+````
+
+
 #### Usage
 <p>Compile the notebook to start a Flask Server</p>
 <p>Send a URL to 'localhost/move/depth/path' </p>
