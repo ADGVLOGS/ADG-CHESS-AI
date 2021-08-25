@@ -28,9 +28,11 @@ Where depth {int} - Number of Nodes - More Nodes = More AI = More Processing Tim
 Constrains dept can only be MAX_NODES = 60
 
 Path is your chessboard
-Example Response
 
-https://adgai.co.za/move/5/r1bqkbnr/pppppppp/2n5/8/4P3/3P4/PPP2PPP/RNBQKBNR%20b%20KQkq%20-%200%202
+Example Usage
+
+Request:   https://adgai.co.za/move/5/r1bqkbnr/pppppppp/2n5/8/4P3/3P4/PPP2PPP/RNBQKBNR%20b%20KQkq%20-%200%202
+Response : e7e6
 ````
 
 #### Interactive Implementation
