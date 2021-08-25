@@ -24,4 +24,4 @@ jobs:
       run: docker build . --file Dockerfile --tag adgrules/adg-aichess-engine:latest
       
     - name: Docker Push
-      run: docker push docker push adgrules/adg-aichess-engine:latest
+      run: docker push adgrules/adg-aichess-engine:latest
