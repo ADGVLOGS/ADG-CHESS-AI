@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/ADGVLOGS/ADG-ML-AI-Website/main/static/chessicon.svg" height="85px">  
-
 # ADG-CHESS-AI ENGINE
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/ADG-CHESS-AI-ENGINE.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/ADG-CHESS-AI-ENGINE/alerts/)
